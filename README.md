@@ -4,4 +4,6 @@ Este sencillo aplicativo web, creado en React, permite generar una planeación e
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/15802235/159184362-ffd1d004-5464-4f75-b8c0-744ea9dcc3cb.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/15802235/159184362-ffd1d004-5464-4f75-b8c0-744ea9dcc3cb.png">
+</p>
